@@ -20,15 +20,13 @@
     {"Rule":"Cell Doors must be opened by 12:30. If cells are unopened at 12:29, then a Freeday will be initiated immediately. If cells continue to be closed for extended periods of times or constantly, CT's may be slayed/swap/ctban/kick/ban."},
     {"Rule":"No Detours and Delays are implied to be in effect at all times."},
     {"Rule":"Fish-in-the-barrel type games is not allowed."},
-        {"Rule":"If a Warden is even on the first words of his orders and cells doors are opened it is not a Freeday. Example: Molotov being thrown at the cell doors button to open them."},
+    {"Rule":"If a Warden is even on the first words of his orders and cells doors are opened it is not a Freeday. Example: Molotov being thrown at the cell doors button to open them."},
     {"Rule":"The order [To] and afk freeze implies going in the direction of and stopping when at said object. It does not imply on."},
-        {"Rule":"The order get [on] the button and afk freeze is the only way you can legitimately go to and get ON a object."},
+    {"Rule":"The order get [on] the button and afk freeze is the only way you can legitimately go to and get ON a object."},
     {"Rule":"During all LRs no cheating is always implied. It is rebelling of you cheat"},
-        {"Rule":"1 Step = 1 Player Model."},
-        {"Rule":"There is no favoritism allowed."},
-        {"Rule":"Joke Day and games related to this must include a vote accross the CT Team to decide the players fate."}
-       
-       
+    {"Rule":"1 Step = 1 Player Model."},
+    {"Rule":"There is no favoritism allowed."},
+    {"Rule":"Joke Day and games related to this must include a vote accross the CT Team to decide the players fate."}
   ],
  
   "Prisoner Rules":
@@ -44,9 +42,9 @@
     {"Rule":"Rules must be established in each LR. No party may break these rules or result in appropriate action from an admin."},
     {"Rule":"Prisoner's whom rebel between LRs may be killed as if they were rebelling regularly."},
     {"Rule":"The final Prisoner may choose the Rebel option, where he may be killed as if he was a rebelling Prisoner."},
-        {"Rule":"If a T is freekilled they will be [1uped] and/or the offender will be slain."},
-        {"Rule":"If a T is 1upped due to a wrongful death by an admin, that T may not rebel until he has regrouped with his fellow teammates and is under the control of the warden."},
-        {"Rule":"If not rebelling when a prisoner is the last left alive he will be granted lr regardless if playing a game that could cause said prisoner death. This means the prisoner is NOT required to finish the game."}
+    {"Rule":"If a T is freekilled they will be [1uped] and/or the offender will be slain."},
+    {"Rule":"If a T is 1upped due to a wrongful death by an admin, that T may not rebel until he has regrouped with his fellow teammates and is under the control of the warden."},
+    {"Rule":"If not rebelling when a prisoner is the last left alive he will be granted lr regardless if playing a game that could cause said prisoner death. This means the prisoner is NOT required to finish the game."}
   ],
  
   "Guard Rules":
@@ -72,18 +70,17 @@
     {"Rule":"Wardens may not revoke warden-initiated Freedays or Wardays."},
     {"Rule":"Wardens may not use 'jump restriction' commands in a row. Breaking this rule will result in a slay/swap."},
     {"Rule":"If no Guards's are willing to Warden, then a freeday may be declared by an admin accompanying an entire team swap."},
-        {"Rule":"Guards may not wander or roam the map away from the Warden unless searching for rebellious T's."},
+    {"Rule":"Guards may not wander or roam the map away from the Warden unless searching for rebellious T's."},
     {"Rule":"Wardens can be established within the Guard's to give orders to the Prisoner's through the !w chat command."},
-        {"Rule":"Guards my ONLY reenter armory if they are pursuing a T. They may not stay in for more then 15 seconds. Breaking this rule will result in a slay/swap/ctban/kick/ban."},
+    {"Rule":"Guards my ONLY reenter armory if they are pursuing a T. They may not stay in for more then 15 seconds. Breaking this rule will result in a slay/swap/ctban/kick/ban."},
     {"Rule":"Wardens may not use text to give commands. The only exception for this is when playing an activity that requires the Warden to say [Go] or [Say go] in chat to start the activity."},
-        {"Rule":"If a CT is shooting/knifing/being a general troll to another CT, they are entitled to be slain."},
-        {"Rule":"CTs may kill Ts who throw any lethal or tactical grenades except decoys; unless permitted by Warden."},
-        {"Rule":"During a 'Joke Day' the warden must let the terrorist complete his joke before executing him/her."},
-        {"Rule":"A warden may not start a warday in a location that is only accessible by teleportation."},
-        {"Rule":"A warden may not start a warday in a specific location with the intention of mass killing his fellow guards."},
-        {"Rule":"A CT may order a T to move if he/she is obstructing the CTs path. (This is not to be abused or the CT will be punished accordingly)."},
-        {"Rule":"CTs Must retain a distance of 5 player models regardless if Ts have their backs to said CT."}
-       
+    {"Rule":"If a CT is shooting/knifing/being a general troll to another CT, they are entitled to be slain."},
+    {"Rule":"CTs may kill Ts who throw any lethal or tactical grenades except decoys; unless permitted by Warden."},
+    {"Rule":"During a 'Joke Day' the warden must let the terrorist complete his joke before executing him/her."},
+    {"Rule":"A warden may not start a warday in a location that is only accessible by teleportation."},
+    {"Rule":"A warden may not start a warday in a specific location with the intention of mass killing his fellow guards."},
+    {"Rule":"A CT may order a T to move if he/she is obstructing the CTs path. (This is not to be abused or the CT will be punished accordingly)."},
+    {"Rule":"CTs Must retain a distance of 5 player models regardless if Ts have their backs to said CT."}
   ],
  
   "PRE-DEFINED Rules":
