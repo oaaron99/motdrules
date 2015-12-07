@@ -93,7 +93,8 @@
     {"Rule":"Gun toss: No crouching, no bhopping, no cheating, no admin power from anyone, CT's first, no interference from other players."},
     {"Rule":"Shot for Shot: Stay on the wall at all times, no healing, no hiding, no interference from other players."},
     {"Rule":"Lava Freeday: T's may only be on main cell floor if they are on a spray, and may left or right click. Any other areas of the map outside of the main cell floor such as Soccer, Surf, Climb, etc. does not count as main cell floor, and T's may run around freely in those areas."},
-    {"Rule":"Warday: CT's may KOS, all CTs must remain within the Warzone until Warday explands. Violating this will result in a slay/team swap."}
+    {"Rule":"Warday: CT's may KOS, all CTs must remain within the Warzone until Warday explands. Violating this will result in a slay/team swap."},
+    {"Rule":"Hide and Seek Day: All Ts would hide from the CTs by a specified time. Once the time for the Ts to hide is up all CTs need to persue the Ts until one is left alive."}
   ],
  
   "Admin Rules":
