@@ -45,7 +45,8 @@
     {"Rule":"If a T is freekilled they will be [1uped] and/or the offender will be slain."},
     {"Rule":"If a T is 1upped due to a wrongful death by an admin, that T may not rebel until he has regrouped with his fellow teammates and is under the control of the warden."},
     {"Rule":"If not rebelling when a prisoner is the last alive he/she will be granted their lr regardless if playing a game that could cause said prisoners death. This means the prisoner is NOT required to finish the game."},
-    {"Rule":"If last prisoner has Last Request, the game rules must apply to both parties."}
+    {"Rule":"If a Prisoner has selected a Last Request predefined game then, the game rules must apply to both parties."}
+    {"Rule":"If a repeat is requested by a CT during a Last Request predefined game then, the Prisoner must give a repeat."}
   ],
  
   "Guard Rules":
@@ -83,7 +84,7 @@
     {"Rule":"A CT may order a T to move if he/she is obstructing the CTs path. (This is not to be abused or the CT will be punished accordingly)."},
     {"Rule":"CTs Must retain a distance of 5 player models regardless if Ts have their backs to said CT."}
   ],
- 
+  
   "PRE-DEFINED Rules":
   [
     {"Rule":"Panda Freeday: Panda's crouch at all times may not left click, may not teleport, can not climb or jump unless getting to a CT. Pandas may stand up and AFK freeze if they are typing. Pandas may not carry guns, holstered or otherwise."},
