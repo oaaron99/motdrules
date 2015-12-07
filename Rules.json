@@ -83,7 +83,7 @@
     {"Rule":"A warden may not start a warday in a specific location with the intention of mass killing his fellow guards."},
     {"Rule":"A CT may order a T to move if he/she is obstructing the CTs path. (This is not to be abused or the CT will be punished accordingly)."},
     {"Rule":"CTs Must retain a distance of 5 player models regardless if Ts have their backs to said CT."},
-    {"Rule":"Wardens may not use the following orders: 'First one to (COMMAND) gets lr.'"
+    {"Rule":"Wardens may not use the following orders: 'First one to (COMMAND) gets lr.'"}
   ],
   
   "PRE-DEFINED Rules":
