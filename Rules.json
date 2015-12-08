@@ -26,7 +26,7 @@
     {"Rule":"During all LRs no cheating is always implied. It is rebelling if you cheat"},
     {"Rule":"1 Step = 1 Player Model."},
     {"Rule":"There is no favoritism allowed."},
-    {"Rule":"Joke Day and games related to this must include a vote accross the CT Team to decide the players fate."}
+    {"Rule":"Joke Day and games related to this must include a vote accross the CT Team to decide the players fate."},
   ],
  
   "Prisoner Rules":
@@ -83,7 +83,8 @@
     {"Rule":"A warden may not start a warday in a specific location with the intention of mass killing his fellow guards."},
     {"Rule":"A CT may order a T to move if he/she is obstructing the CTs path. (This is not to be abused or the CT will be punished accordingly)."},
     {"Rule":"CTs Must retain a distance of 5 player models regardless if Ts have their backs to said CT."},
-    {"Rule":"Wardens may not use the following orders: 'First one to (COMMAND) gets lr.'"}
+    {"Rule":"Wardens may not use the following orders: 'First one to (COMMAND) gets lr.'"},
+    {"Rule":"The first day of every map must be a freeday."}
   ],
   
   "PRE-DEFINED Rules":
