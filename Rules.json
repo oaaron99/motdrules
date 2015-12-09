@@ -84,6 +84,7 @@
     {"Rule":"A warden may not start a warday in a location that is only accessible by teleportation."},
     {"Rule":"A warden may not start a warday in a specific location with the intention of mass killing his fellow guards."},
     {"Rule":"A CT may order a T to move if he/she is obstructing the CTs path. (This is not to be abused or the CT will be punished accordingly)."},
+    {"Rule":"Ts can only be referred as the following: Ts, Terrorists, and Prisoners. They cannot be renamed to any alternative names."},
     {"Rule":"CTs Must retain a distance of 5 player models regardless if Ts have their backs to said CT."},
     {"Rule":"CTs may not interfere during a Ts Last Request. Violating this will result in a slay/team swap."},
     {"Rule":"Wardens may not use the following orders: '(COMMAND) gets lr.'"},
