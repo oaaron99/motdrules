@@ -31,7 +31,7 @@
  
   "Prisoner Rules":
   [
-    {"Rule":"Once a warden has died, Prisoner's must AFK freeze until orders are given or else you are rebelling."},
+    {"Rule":"Once a warden has died, Prisoner's must freeze until orders are given or else you are rebelling."},
     {"Rule":"Prisoner's who attack Guards are automatically rebelling. Any guard may ask a T to drop a gun."},
     {"Rule":"Prisoner's may not find loopholes in orders. If orders are unclear, T's may ask for a reworded order or an explanation of the order. Example: Warden Tells T's to stack on his bullets. Prisoner's may not stack on the bullets that are in his gun."},
     {"Rule":"Prisoner's in armory/vents are automatically rebelling."},
