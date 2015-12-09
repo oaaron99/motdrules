@@ -26,7 +26,8 @@
     {"Rule":"During all LRs no cheating is always implied. It is rebelling if you cheat"},
     {"Rule":"1 Step = 1 Player Model."},
     {"Rule":"There is no favoritism allowed."},
-    {"Rule":"Joke Day and games related to this must include a vote accross the CT Team to decide the players fate."}
+    {"Rule":"Joke Day and games related to this must include a vote accross the CT Team to decide the players fate."},
+    {"Rule":"CTs and Ts are not considered to be baiting once a T has Last Request."}
   ],
  
   "Prisoner Rules":
