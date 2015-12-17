@@ -59,6 +59,7 @@
     {"Rule":"The Guard who is Last Guard must give Last Prisoner LR."},
     {"Rule":"Guards may only enter vents if they see a Prisoner go in the vent or by wardens permission."},
     {"Rule":"Guards may not wander or roam the map away from the Warden unless searching for rebellious Prisoner's."},
+    {"Rule":"Guards may not enter any vent from inside the armory at the start of the round such as on minecraft. You must go in from the broken side or wait until later in the round"},
     {"Rule":"Guards and Vents: Breaking any of these rules will result in a slay/swap/ctban/kick/ban .<br />  a. Guards may not break vent doors period. .<br />  b. Guards may not camp in a vent .<br /> c. Guards may kill any Prisoner in vents."},
     {"Rule":"Guards may not come within close distance to any Prisoner's. The distance is approximately 5 player models away (Baiting) Prisoner's who attack violating Guard's should be pardoned. Killing a Prisoner while baiting will result in a slay/swap/ctban/kick/ban."},
     {"Rule":"Guards may only kill Prisoner's that are rebelling or not following the Warden's Orders. Breaking this rule will result in a slay/swap/ctban/kick/ban."},
