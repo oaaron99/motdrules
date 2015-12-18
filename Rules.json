@@ -27,7 +27,8 @@
     {"Rule":"1 Step = 1 Player Model."},
     {"Rule":"There is no favoritism allowed."},
     {"Rule":"Joke Day and games related to this must include a vote accross the CT Team to decide the players fate."},
-    {"Rule":"CTs and Ts are not considered to be baiting once a T has Last Request."}
+    {"Rule":"CTs and Ts are not considered to be baiting once a T has Last Request."},
+    {"Rule":"All players must have a typeable name that allow themselves to be targetable by admins."}
   ],
  
   "Prisoner Rules":
