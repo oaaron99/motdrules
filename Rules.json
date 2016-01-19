@@ -6,7 +6,7 @@
     {"Rule":"Do not disrespect/harass/threaten/flame any players."},
     {"Rule":"Do not spam chat, voice, or radio commands."},
     {"Rule":"Do not hack/exploit."},
-    {"Rule":"Do not cheat/ghost/glitch."},
+    {"Rule":"Do not cheat/ghost/glitch. "},
     {"Rule":"Do not apply other server rules to this server."},
     {"Rule":"Do not advertise other gaming websites/servers."},
     {"Rule":"Do not evade punishment."},
@@ -28,7 +28,8 @@
     {"Rule":"There is no favoritism allowed."},
     {"Rule":"Joke Day and games related to this must include a vote accross the CT Team to decide the players fate."},
     {"Rule":"CTs and Ts are not considered to be baiting once a T has Last Request."},
-    {"Rule":"All players must have a typeable name that allow themselves to be targetable by admins."}
+    {"Rule":"All players must have a typeable name that allow themselves to be targetable by admins."},
+    {"Rule":"VIPs who use !ghost to block buttons, bullets or intentionally interfere with the game will be banned for an hour. Excessive abuse of this feauture will result in removal of VIP."}
   ],
  
   "Prisoner Rules":
