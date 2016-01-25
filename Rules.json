@@ -105,7 +105,7 @@
     {"Rule":"Lava Freeday: T's may only be on main cell floor if they are on a spray, and may left or right click. Any other areas of the map outside of the main cell floor such as Soccer, Surf, Climb, etc. does not count as main cell floor, and T's may run around freely in those areas."},
     {"Rule":"Warday: CT's may KOS, all CTs must remain within the Warzone until Warday expands. Violating this will result in a slay/team swap."},
     {"Rule":"Hide and Seek Day: All Ts would hide from the CTs by a specified time. Once the time for the Ts to hide is up all CTs need to pursue the Ts until one is left alive."},
-	{"Rule":"Freeze Tag: All T's must run from the CT's and try not to get frozen. CT's are not allowed to camp around a frozen T, violating this rule will result in a slay/team swap/CTBan."}
+	{"Rule":"Freeze Tag: All T's must run from the CT's and try not to get frozen. CT's are not allowed to camp around a frozen T, also they may not camp portals or entrances, violating these rules will result in a slay/team swap/CTBan."}
   ],
  
   "Admin Rules":
