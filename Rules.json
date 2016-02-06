@@ -78,7 +78,6 @@
     {"Rule":"Wardens may not revoke warden-initiated Freedays or Wardays."},
     {"Rule":"Wardens may not use 'jump restriction' commands in a row. Breaking this rule will result in a slay/swap."},
     {"Rule":"If no Guard's are willing to Warden, then a Freeday may be declared by an Admin accompanying an entire team swap."},
-    {"Rule":"Guards may not wander or roam the map away from the Warden unless searching for rebellious T's."},
     {"Rule":"Wardens can be established within the Guard's to give orders to the Prisoner's through the !w chat command."},
     {"Rule":"Guards my ONLY reenter armory if they are pursuing a T. They may not stay in for more then 15 seconds. Breaking this rule will result in a slay/swap/ctban/kick/ban."},
     {"Rule":"Wardens may not use text to give commands. The only exception for this is when playing an activity that requires the Warden to say [Go] or [Say go] in chat to start the activity."},
