@@ -96,7 +96,8 @@
     {"Rule":"The first day of every map must be a Freeday."},
     {"Rule":"When a CT tells a T to drop contraband, if the T picks it up again he will be considered rebelling."},
     {"Rule":"When a Warden dies, all games currently being played e.g. Simon Says, are cancelled unless the new Warden initiates them again."},
-    {"Rule":"When a T gets LR, all predefined games being played are void and the T does not have to partake in them anymore."}
+    {"Rule":"When a T gets LR, all predefined games being played are void and the T does not have to partake in them anymore."},
+    {"Rule":"When a T gets LR, the last warden is still considered to be the warden."}
   ],
   
   "PRE-DEFINED Rules":
